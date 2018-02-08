@@ -4,7 +4,8 @@ tips:
 1，当前脚本目前仅仅适用于使用cocoapods进行包管理的项目
 2，依赖xcodebuild,故不能跨平台
 
-
+简书地址：https://www.jianshu.com/p/a33fcad2be55
+github地址：https://github.com/lczhai/iOSBuild
 
 ###使用步骤
 
