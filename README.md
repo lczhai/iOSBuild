@@ -49,7 +49,8 @@ cd  xxx
 ./auto_build.sh  projectname  targetname  导出路径 打包模式
 
 
->EX
+>EX:
+
 cd  testproject/
 ./auto_build.sh  testproject  testproject  ../ Debug
 
